@@ -1,0 +1,441 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+La Nueva Colmena
+</name>
+</assembly>
+<members>
+<member name="T:LaNuevaColmena.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:LaNuevaColmena.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:LaNuevaColmena.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:LaNuevaColmena.My.Resources.Resources.panalinado1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LaNuevaColmena.My.Resources.Resources.panalinadoxs">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:LaNuevaColmena.My.Resources.Resources.panalinadoxs323">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.SaldoDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.SaldoDataSet.SaldoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.SaldoDataSet.SaldoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.SaldoDataSet.SaldoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSet.FacturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSet.DetalleFacturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSet.ProductoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSet.FacturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSet.DetalleFacturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSet.ProductoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSet.FacturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSet.DetalleFacturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSet.ProductoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSetTableAdapters.FacturaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSetTableAdapters.DetalleFacturaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSetTableAdapters.ProductoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:LaNuevaColmena.FacturaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LaNuevaColmena.FacturaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:LaNuevaColmena.FacturaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LaNuevaColmena.FacturaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:LaNuevaColmena.FacturaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LaNuevaColmena.FacturaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:LaNuevaColmena.FacturaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:LaNuevaColmena.FacturaDataSetTableAdapters.TableAdapterManager.UpdateAll(LaNuevaColmena.FacturaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:LaNuevaColmena.FacturaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSet.FacturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSet.NotaCreditoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSet.ReciboDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSet.FacturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSet.NotaCreditoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSet.ReciboRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSet.FacturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSet.NotaCreditoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSet.ReciboRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSetTableAdapters.FacturaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSetTableAdapters.NotaCreditoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSetTableAdapters.ReciboTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:LaNuevaColmena.La_Nueva_colmenaDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LaNuevaColmena.La_Nueva_colmenaDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:LaNuevaColmena.La_Nueva_colmenaDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LaNuevaColmena.La_Nueva_colmenaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:LaNuevaColmena.La_Nueva_colmenaDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LaNuevaColmena.La_Nueva_colmenaDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:LaNuevaColmena.La_Nueva_colmenaDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:LaNuevaColmena.La_Nueva_colmenaDataSetTableAdapters.TableAdapterManager.UpdateAll(LaNuevaColmena.La_Nueva_colmenaDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:LaNuevaColmena.La_Nueva_colmenaDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:LaNuevaColmena.PreciosDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.PreciosDataSet.ProductoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.PreciosDataSet.ProductoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.PreciosDataSet.ProductoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LaNuevaColmena.PreciosDataSetTableAdapters.ProductoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.PreciosDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:LaNuevaColmena.PreciosDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LaNuevaColmena.PreciosDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:LaNuevaColmena.PreciosDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LaNuevaColmena.PreciosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:LaNuevaColmena.PreciosDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LaNuevaColmena.PreciosDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:LaNuevaColmena.PreciosDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:LaNuevaColmena.PreciosDataSetTableAdapters.TableAdapterManager.UpdateAll(LaNuevaColmena.PreciosDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.PreciosDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:LaNuevaColmena.PreciosDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSet.RecibosXFacturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSet.ReciboDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSet.FacturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSet.RecibosXFacturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSet.ReciboRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSet.FacturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSet.RecibosXFacturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSet.ReciboRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSet.FacturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSetTableAdapters.RecibosXFacturaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSetTableAdapters.ReciboTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSetTableAdapters.FacturaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:LaNuevaColmena.ReciboDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(LaNuevaColmena.ReciboDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:LaNuevaColmena.ReciboDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(LaNuevaColmena.ReciboDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:LaNuevaColmena.ReciboDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(LaNuevaColmena.ReciboDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:LaNuevaColmena.ReciboDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:LaNuevaColmena.ReciboDataSetTableAdapters.TableAdapterManager.UpdateAll(LaNuevaColmena.ReciboDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:LaNuevaColmena.ReciboDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

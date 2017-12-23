@@ -1,0 +1,17 @@
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Release\Soft Panaderia.exe.config
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Release\Soft Panaderia.exe
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Release\Soft Panaderia.pdb
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Release\Soft Panaderia.xml
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft_Panaderia.Agregar_Cliente.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft_Panaderia.Consultar_Saldo.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft_Panaderia.Datos_Cliente.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft_Panaderia.Agregar_Producto.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft_Panaderia.modificar_producto.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft_Panaderia.Precios.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft_Panaderia.Principal.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft_Panaderia.Clientes.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft_Panaderia.Resources.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft Panaderia.vbproj.GenerateResource.Cache
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft Panaderia.exe
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft Panaderia.xml
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Release\Soft Panaderia.pdb

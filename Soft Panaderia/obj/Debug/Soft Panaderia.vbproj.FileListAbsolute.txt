@@ -1,0 +1,169 @@
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\bin\Debug\Soft Panaderia.exe.config
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\bin\Debug\Soft Panaderia.exe
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\bin\Debug\Soft Panaderia.pdb
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\bin\Debug\Soft Panaderia.xml
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\obj\Debug\Soft_Panaderia.Agregar_Cliente.resources
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\obj\Debug\Soft_Panaderia.Consultar_Saldo.resources
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\obj\Debug\Soft_Panaderia.Datos_Cliente.resources
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\obj\Debug\Soft_Panaderia.Agregar_Producto.resources
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\obj\Debug\Soft_Panaderia.Precios.resources
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\obj\Debug\Soft_Panaderia.Principal.resources
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\obj\Debug\Soft_Panaderia.Clientes.resources
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\obj\Debug\Soft_Panaderia.Resources.resources
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\obj\Debug\Soft Panaderia.vbproj.GenerateResource.Cache
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\obj\Debug\Soft Panaderia.exe
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\obj\Debug\Soft Panaderia.xml
+C:\Users\Jere\documents\visual studio 2013\Projects\Soft Panaderia\Soft Panaderia\obj\Debug\Soft Panaderia.pdb
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\Soft Panaderia.exe.config
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft Panaderia.exe
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft Panaderia.xml
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft Panaderia.pdb
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\Soft Panaderia.exe
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\Soft Panaderia.pdb
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\Soft Panaderia.xml
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft_Panaderia.Agregar_Cliente.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft_Panaderia.Consultar_Saldo.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft_Panaderia.Datos_Cliente.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft_Panaderia.Agregar_Producto.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft_Panaderia.Precios.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft_Panaderia.Principal.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft_Panaderia.Clientes.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft_Panaderia.Resources.resources
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft Panaderia.vbproj.GenerateResource.Cache
+E:\Mis Documentos\Documents\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft_Panaderia.modificar_producto.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Agregar_Cliente.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Consultar_Saldo.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Datos_Cliente.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Agregar_Producto.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Facturacion.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Detalle_Factura.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Factura.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Seleccionar_Precios.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.modificar_producto.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Precios.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Principal.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Clientes.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Resources.resources
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft Panaderia.vbproj.GenerateResource.Cache
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.accdb
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe.config
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe.manifest
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.application
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.pdb
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.xml
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.exe.manifest
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.application
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.exe
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.xml
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.pdb
+C:\Users\José\Downloads\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft Panaderia.vbprojResolveAssemblyReference.cache
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.accdb
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe.config
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe.manifest
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.application
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.pdb
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.xml
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Agregar_Cliente.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Consultar_Saldo.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Datos_Cliente.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Imprimir_Factura.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Agregar_Producto.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Facturacion.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Detalle_Factura.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Factura.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Configuracion.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Imprimir_Lista_Precios.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Detalle_Recibo.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Recibo.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Recibos.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.modificar_producto.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Precios.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Principal.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Clientes.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Resources.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft Panaderia.vbproj.GenerateResource.Cache
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\RdlCompile.cache
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\RdlCompile.compiled
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.exe.manifest
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.application
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.exe
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.xml
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.pdb
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft Panaderia.vbprojResolveAssemblyReference.cache
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe.config
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.exe
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.xml
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.pdb
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.accdb
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe.manifest
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.application
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.pdb
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.xml
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft Panaderia.vbprojResolveAssemblyReference.cache
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Agregar_Cliente.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Consultar_Saldo.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Datos_Cliente.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Imprimir_Factura.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Agregar_Producto.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Facturacion.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Detalle_Factura.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Factura.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Configuracion.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Imprimir_Lista_Precios.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Detalle_Recibo.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Recibo.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Recibos.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.modificar_producto.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Precios.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Principal.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Clientes.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Resources.resources
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft Panaderia.vbproj.GenerateResource.Cache
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\RdlCompile.cache
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\RdlCompile.compiled
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.exe.manifest
+E:\Mis Documentos\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.application
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe.config
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe.manifest
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.application
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.pdb
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.xml
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Agregar_Cliente.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Consultar_Saldo.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Datos_Cliente.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Imprimir_Factura.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Agregar_Producto.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Facturacion.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Detalle_Factura.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Factura.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Configuracion.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Imprimir_Lista_Precios.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Detalle_Recibo.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Imprimir_Recibo.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Recibo.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Recibos.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.modificar_producto.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Precios.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Principal.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Clientes.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\LaNuevaColmena.Resources.resources
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft Panaderia.vbproj.GenerateResource.Cache
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\RdlCompile.cache
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\RdlCompile.compiled
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.exe.manifest
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.application
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.exe
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.xml
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.pdb
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\Soft Panaderia.vbprojResolveAssemblyReference.cache
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva colmena.mdb
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva colmena.accdb
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena XP\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena.exe.config
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena XP\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.exe
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena XP\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.xml
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena XP\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\obj\Debug\La Nueva Colmena.pdb
+C:\Users\Jere\Documents\Visual Studio 2013\Projects\La-Nueva-Colmena XP\La-Nueva-Colmena\La Nueva Colmena\Soft Panaderia\bin\Debug\La Nueva Colmena XP.exe.config
