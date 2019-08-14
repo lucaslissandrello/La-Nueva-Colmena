@@ -1,0 +1,13 @@
+- Si se va a usar el programa en un w 64 bits, se necesita el driver de conexion de base de datos de Access 2010 32 bits:
+https://www.microsoft.com/es-es/download/details.aspx?id=13255
+
+
+-SQLSysClrTypes.msi
+http://download.microsoft.com/download/F/E/D/FEDB200F-DE2A-46D8-B661-D019DFE9D470/ENU/x86/SQLSysClrTypes.msi
+
+- Report Viewer:
+Tiene que ser la 11, que es la 2012
+https://www.microsoft.com/es-ES/download/details.aspx?id=35747
+
+-Quizas haya que activar el Net Framewrok 3 o 3.5
+
